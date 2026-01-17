@@ -26,7 +26,7 @@ Professor Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Isaiah LaCombe                | [isaiahelixir1](https://isaiahelixir1.github.io/isaiahelixer1.github.io/) |
+| Isaiah LaCombe                | [isaiahelixir1.Github](https://isaiahelixir1.github.io/isaiahelixer1.github.io/) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
