@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">To Be Determined<br>
 <font size="5">Team 305<br>
 **Submission: 01, 17, 2026**<br>
 Spring - 2026<br>
