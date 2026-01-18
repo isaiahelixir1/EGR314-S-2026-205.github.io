@@ -27,7 +27,7 @@ Professor Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Isaiah LaCombe                | [isaiahelixir1.Github](https://isaiahelixir1.github.io/isaiahelixer1.github.io/) |
-| Name #2                | link |
+| Arianna Lazaritt                | [alazaritt.github.io](https://alazaritt.github.io/EGR314DataSheetTemplate/) |
 | Name #3                | link |
 | Name #4                | link |
 | Name #5                | link |
