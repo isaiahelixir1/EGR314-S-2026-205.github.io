@@ -6,7 +6,7 @@ title: Appendix - Extra Team Organization Information
 
 >Define the roles and responsibilities that will be filled by the team members as you work to achieve your team mission. The table below is an example of some roles that each team should have; as you organize your team, you may identify other roles that would help your team successfully fulfill the team mission. ***See assignment for more details.***
 
-_Table #: Project Roles and Duties_
+_Table 1: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ _Table #: Project Roles and Duties_
 
 >This is an area where teams often get into trouble. You should specific the channel(s)/method(s) for the team communication along with notes on the expectation in responce time.
 
-*Table #: Team Members' Prefered Communication Modes*
+*Table 2: Team Members' Prefered Communication Modes*
 
 | **Name** | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | :------- | :----------------------------- | :------------------------------ | :----------------------------- |
@@ -29,15 +29,12 @@ _Table #: Project Roles and Duties_
 | Member 2 |                                |                                 |                                |
 | Member 3 |                                |                                 |                                |
 | Member 4 |                                |                                 |                                |
+| Member 5 |                                |                                 |                                |
+| Arianna |        discord                  |  text                           |   email                        |
 
 ### Communication Procedures
 
-Then, answer the following question as a team:
-
-* Discord was the agreed .....
-* It is expected a responce of ... on the agreed timeframe of ....
-* John Doe with be the point of contact for instructor correspondence? Who is responsible?
-  * Will that be communicated with ... back to the group.
+Discord was the primary platform our team chose to communicate. Team members will respond to any messages by the end of the day, unless someone has explicitly mentioned they will be unavailable. 
 
 ### Meeting Schedule and Coordiation
 
